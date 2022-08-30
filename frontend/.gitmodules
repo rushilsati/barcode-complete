@@ -1,0 +1,3 @@
+[submodule "barcode-complete"]
+	path = barcode-complete
+	url = https://github.com/rushilsati/barcode-complete.git
